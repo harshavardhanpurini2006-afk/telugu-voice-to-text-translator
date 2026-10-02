@@ -1,0 +1,105 @@
+======================================================================
+           TELUGU VOICE-TO-TEXT TRANSLATION HISTORY REPORT
+           Generated on: 2026-10-02 16:06:19
+           Total Records: 12
+======================================================================
+
+Record ID      : 4ec4f0a0
+Timestamp      : 2026-10-02 12:43:38
+Source         : microphone (Duration: 3.0s)
+Confidence     : 94.0% | Code-Switching: False
+Providers      : STT=google, Trans=deep_translator
+Telugu (తెలుగు) : నమస్కారం, మీరు ఎలా ఉన్నారు?
+English        : Hello, how are you?
+----------------------------------------------------------------------
+Record ID      : 2f3f1240
+Timestamp      : 2026-10-02 12:43:38
+Source         : file_upload (sample_weather.wav) (Duration: 3.5s)
+Confidence     : 91.0% | Code-Switching: False
+Providers      : STT=google, Trans=deep_translator
+Telugu (తెలుగు) : ఈ రోజు వాతావరణం చాలా ఆహ్లాదకరంగా ఉంది.
+English        : The weather is very pleasant today.
+----------------------------------------------------------------------
+Record ID      : 75dcecc5
+Timestamp      : 2026-10-02 12:43:38
+Source         : microphone (Duration: 4.0s)
+Confidence     : 88.0% | Code-Switching: False
+Providers      : STT=google, Trans=deep_translator
+Telugu (తెలుగు) : నా పేరు భారత్, నేను తెలుగు మాట్లాడుతున్నాను.
+English        : My name is Bharat, I speak Telugu.
+----------------------------------------------------------------------
+Record ID      : 45f36c0e
+Timestamp      : 2026-10-02 12:43:38
+Source         : file_upload (sample_tenglish.wav) (Duration: 4.5s)
+Confidence     : 78.0% | Code-Switching: True
+Providers      : STT=offline_mock, Trans=deep_translator
+Telugu (తెలుగు) : రేపు ఉదయం ప్రాజెక్ట్ meeting ఉంది, please attend అవ్వండి.
+English        : Tomorrow morning project meeting is there, please attend.
+Notes          : Mixed Telugu-English ('Tenglish') detected; grammatical nuances may be lost.
+----------------------------------------------------------------------
+Record ID      : 9c103860
+Timestamp      : 2026-10-02 12:43:38
+Source         : microphone (Duration: 2.5s)
+Confidence     : 96.0% | Code-Switching: False
+Providers      : STT=google, Trans=deep_translator
+Telugu (తెలుగు) : మీ సహాయానికి చాలా ధన్యవాదాలు.
+English        : Thank you very much for your help.
+----------------------------------------------------------------------
+Record ID      : 6867bf19
+Timestamp      : 2026-10-02 12:43:38
+Source         : microphone (Duration: 5.2s)
+Confidence     : 89.0% | Code-Switching: False
+Providers      : STT=google, Trans=deep_translator
+Telugu (తెలుగు) : కృత్రిమ మేధస్సు మరియు భాషా సాంకేతికత అభివృద్ధి చెందుతోంది.
+English        : Artificial intelligence and language technology are developing.
+----------------------------------------------------------------------
+Record ID      : 2eb50e5f
+Timestamp      : 2026-10-02 12:47:47
+Source         : file (test_sample.wav) (Duration: 1.5s)
+Confidence     : 98.0% | Code-Switching: False
+Providers      : STT=offline_mock, Trans=none
+Telugu (తెలుగు) : నా పేరు భారత్, నేను తెలుగు మాట్లాడుతున్నాను.
+English        : My name is Bharat, I speak Telugu.
+----------------------------------------------------------------------
+Record ID      : 0a904144
+Timestamp      : 2026-10-02 12:49:19
+Source         : file (test_sample.wav) (Duration: 1.5s)
+Confidence     : 98.0% | Code-Switching: False
+Providers      : STT=offline_mock, Trans=none
+Telugu (తెలుగు) : నమస్కారం, మీరు ఎలా ఉన్నారు?
+English        : Hello, how are you?
+----------------------------------------------------------------------
+Record ID      : b636b433
+Timestamp      : 2026-10-02 15:46:37
+Source         : file (test_sample.wav) (Duration: 1.5s)
+Confidence     : 98.0% | Code-Switching: False
+Providers      : STT=offline_mock, Trans=none
+Telugu (తెలుగు) : దయచేసి మైక్రోఫోన్ సరిగ్గా మాట్లాడండి.
+English        : Please speak into the microphone properly.
+----------------------------------------------------------------------
+Record ID      : 35ee0006
+Timestamp      : 2026-10-02 15:48:03
+Source         : microphone (live recording) (Duration: 5.52s)
+Confidence     : 63.2% | Code-Switching: False
+Providers      : STT=google_speech, Trans=google_direct
+Telugu (తెలుగు) : నేను ప్రస్తుతం బయటకి డిగ్రీ చదువుతున్న
+English        : [Translation unavailable: Service busy]
+Notes          : Low confidence score: speech may be unclear, accented, or muffled. | Translation notice: Translation API error: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function. Check internet connection or switch to mock translator.
+----------------------------------------------------------------------
+Record ID      : 0a2406da
+Timestamp      : 2026-10-02 15:53:30
+Source         : microphone (live recording) (Duration: 4.26s)
+Confidence     : 78.6% | Code-Switching: False
+Providers      : STT=google_speech, Trans=google_direct
+Telugu (తెలుగు) : నేను ప్రస్తుతం బీటెక్ డిగ్రీ చదువుతున్నాను
+English        : [Translation unavailable: Service busy]
+Notes          : Translation notice: Translation API error: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function. Check internet connection or switch to mock translator.
+----------------------------------------------------------------------
+Record ID      : 809bfdd8
+Timestamp      : 2026-10-02 16:06:16
+Source         : microphone (live recording) (Duration: 4.8s)
+Confidence     : 78.6% | Code-Switching: False
+Providers      : STT=google_speech, Trans=google_direct
+Telugu (తెలుగు) : నేను ప్రస్తుతం బీటెక్ డిగ్రీ చదువుతున్నాను
+English        : I am currently pursuing B.Tech degree
+----------------------------------------------------------------------
